@@ -12,5 +12,5 @@ Our art team - codename "peanut butter" - make amazing concept art, and then tur
 ## The Syrup
 Our sound team - codename "syrup" - take our tasty, peanut butter waffle, and bring it up to the next level. They are our cherry on top, the cream of the crop, and that extra shine that elevates our games into what we all hope them to be.
 
-## Instructions on the back box
+## Instructions on the back of the box
 Our writing team - codename "instructions on the back of the box" - help to guide the rest of the team by building awesome worlds, interesting characters, and thrilling stories for us to build our games around. They also make great codenames for everyone but themselves.
